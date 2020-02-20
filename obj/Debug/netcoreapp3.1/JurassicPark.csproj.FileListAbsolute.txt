@@ -1,0 +1,11 @@
+/Users/kamariross/sdg-project/JurassicPark/bin/Debug/netcoreapp3.1/JurassicPark
+/Users/kamariross/sdg-project/JurassicPark/bin/Debug/netcoreapp3.1/JurassicPark.deps.json
+/Users/kamariross/sdg-project/JurassicPark/bin/Debug/netcoreapp3.1/JurassicPark.runtimeconfig.json
+/Users/kamariross/sdg-project/JurassicPark/bin/Debug/netcoreapp3.1/JurassicPark.runtimeconfig.dev.json
+/Users/kamariross/sdg-project/JurassicPark/bin/Debug/netcoreapp3.1/JurassicPark.dll
+/Users/kamariross/sdg-project/JurassicPark/bin/Debug/netcoreapp3.1/JurassicPark.pdb
+/Users/kamariross/sdg-project/JurassicPark/obj/Debug/netcoreapp3.1/JurassicPark.csprojAssemblyReference.cache
+/Users/kamariross/sdg-project/JurassicPark/obj/Debug/netcoreapp3.1/JurassicPark.AssemblyInfoInputs.cache
+/Users/kamariross/sdg-project/JurassicPark/obj/Debug/netcoreapp3.1/JurassicPark.AssemblyInfo.cs
+/Users/kamariross/sdg-project/JurassicPark/obj/Debug/netcoreapp3.1/JurassicPark.dll
+/Users/kamariross/sdg-project/JurassicPark/obj/Debug/netcoreapp3.1/JurassicPark.pdb
